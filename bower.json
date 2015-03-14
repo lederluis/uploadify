@@ -1,0 +1,16 @@
+{
+  "name": "uploadify",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ywjrg/uploadify",
+  "authors": [
+    "Quentin Yang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
